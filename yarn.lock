@@ -6430,13 +6430,13 @@ napi-build-utils@^2.0.0:
   integrity sha512-GEbrYkbfF7MoNaoh2iGG84Mnf/WZfB0GdGEsM8wz7Expx/LlWf5U8t9nvJKXSp3qr5IsEbK04cBGhol/KwOsWA==
 
 nativewind@^4.0.0:
-  version "4.2.4"
-  resolved "https://registry.yarnpkg.com/nativewind/-/nativewind-4.2.4.tgz#82cc86a161950e1508f34e7a7036827bc82b5d5d"
-  integrity sha512-PRO7X5a5cnmJD5ryijqeDJhmtabfbbZiPLk3ItTtL7trDzH3uWOv7kPJIqm6L0QFH98m2ynZ55DRPe3AETEOAQ==
+  version "4.2.5"
+  resolved "https://registry.yarnpkg.com/nativewind/-/nativewind-4.2.5.tgz#722a4f6f944ca01c371b21a4e8795eca92458bec"
+  integrity sha512-kKy2BG2xCca7tn3GZ65+sQ2aZH5T2hJ/sN/vlA1WSDu2YPn1rkdjsBOHy2TMv0I/au/HAuvgKIbX+LsSXvcf1Q==
   dependencies:
     comment-json "^4.2.5"
     debug "^4.3.7"
-    react-native-css-interop "0.2.4"
+    react-native-css-interop "0.2.5"
 
 natural-compare@^1.4.0:
   version "1.4.0"
@@ -7130,10 +7130,10 @@ react-native-bootsplash@^6.0.0:
     ts-dedent "^2.2.0"
     xml-formatter "^3.6.5"
 
-react-native-css-interop@0.2.4:
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/react-native-css-interop/-/react-native-css-interop-0.2.4.tgz#beee332613aef4ef8197061d38cf33389cfd8fc9"
-  integrity sha512-ATP3BACxGM4h/l8cisFauGMGxnXpu8Bcp4Bc3O7iNZpq7j0VJjc1RRRBUSBY4C4WuI7VA/xvp3puijVS9d95rg==
+react-native-css-interop@0.2.5:
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/react-native-css-interop/-/react-native-css-interop-0.2.5.tgz#fd98be6719c17d0c4bcd35ffecc598475c103306"
+  integrity sha512-V8/d9lBqn4w8m4d7dmwQPOFJB49bqga/9dmamfRHSGTQjGzrY/jAvDFOzSe+Ew2XuGz1ShVBD2cFIClFYasGyw==
   dependencies:
     "@babel/helper-module-imports" "^7.22.15"
     "@babel/traverse" "^7.23.0"
