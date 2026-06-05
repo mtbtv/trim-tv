@@ -1,6 +1,11 @@
 {
   "expo": {
     "name": "Trim TV",
+      "extra": {
+      "eas": {
+        "projectId": "5c241434-d61d-43cf-9c35-66880002f69c"
+      }
+      },
     "slug": "trim-tv",
     "version": "1.0.0",
     "orientation": "landscape",
