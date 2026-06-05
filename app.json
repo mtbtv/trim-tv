@@ -49,10 +49,7 @@
             "buildToolsVersion": "34.0.0"
           }
         }
-      ],
-      "@react-native-firebase/app",
-      "@notifee/react-native",
-      "react-native-edge-to-edge"
+      ]
     ],
     "extra": {
       "eas": {
