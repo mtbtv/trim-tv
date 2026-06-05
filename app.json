@@ -11,7 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#1a1a1a"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTabletMode": false,
       "isTabletOnly": false
@@ -53,7 +55,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "fadd61c5-d2ea-4baf-bea5-ce0729f0a31a"
+        "projectId": "c951c6ea-4bcc-45a8-a051-aec5b8c9fd10"
       }
     }
   }
