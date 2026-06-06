@@ -15,12 +15,14 @@
     "react-native-mmkv": "^2.12.2",
     "react-native-reanimated": "^4.4.1",
     "react-native-worklets-core": "^1.6.3",
-    "zustand": "^4.5.2"
+    "zustand": "^4.5.2",
+    "nativewind": "^2.0.11"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@babel/preset-env": "^7.20.0",
     "babel-plugin-module-resolver": "^5.0.3",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "tailwindcss": "^3.3.2"
   }
 }
