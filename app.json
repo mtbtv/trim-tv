@@ -15,7 +15,6 @@
       "**/*"
     ],
     "ios": {
-      "supportsTabletMode": false,
       "isTabletOnly": false,
       "bundleIdentifier": "com.trimtv.app"
     },
@@ -32,11 +31,7 @@
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.RECEIVE_BOOT_COMPLETED"
-      ],
-      "isTabletOnly": true,
-      "usesHardwareAcceleration": true,
-      "minSdkVersion": 24,
-      "targetSdkVersion": 35
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
