@@ -7,10 +7,12 @@
     "start": "react-native start"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^24.1.0",
+    "expo": "^56.0.9",
     "react": "18.2.0",
     "react-native": "0.73.6",
-    "zustand": "^4.5.2",
-    "react-native-mmkv": "^2.12.2"
+    "react-native-mmkv": "^2.12.2",
+    "zustand": "^4.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
