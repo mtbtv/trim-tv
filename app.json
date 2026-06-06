@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#1a1a1a"
       },
-      "package": "com.trimtv.app",
+      "package": "com.mtbtv.trimtv",
       "googleServicesFile": "./google-services.json",
       "permissions": [
         "android.permission.INTERNET",
