@@ -16,7 +16,8 @@
     ],
     "ios": {
       "supportsTabletMode": false,
-      "isTabletOnly": false
+      "isTabletOnly": false,
+      "bundleIdentifier": "com.trimtv.app"
     },
     "android": {
       "adaptiveIcon": {
@@ -49,9 +50,7 @@
             "compileSdkVersion": 34,
             "targetSdkVersion": 34,
             "buildToolsVersion": "34.0.0",
-            "extraGradleArguments": [
-              "-Dorg.gradle.jvmargs=-Xmx4096m -XX:MaxMetaspaceSize=512m"
-            ]
+            "jdkVersion": "17"
           }
         }
       ]
