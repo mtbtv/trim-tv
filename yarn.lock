@@ -2510,6 +2510,11 @@
   dependencies:
     nanoid "^3.3.11"
 
+"@shopify/flash-list@^2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@shopify/flash-list/-/flash-list-2.3.1.tgz#d4f90b1471a741a97c07d9aadbfaf200e92c86f7"
+  integrity sha512-7oktg2NQR7KAODjFoDaWe8/OBzyYbdTE3zQTrUBMxjIbxHTHN7UXRX1hX3DHk8KvtkgQdRfZOV8Gjj2l4fGrXw==
+
 "@sideway/address@^4.1.5":
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/@sideway/address/-/address-4.1.5.tgz#4bc149a0076623ced99ca8208ba780d65a99b9d5"
@@ -2545,6 +2550,11 @@
   integrity sha512-V4BG07kuYSUkTCSBHG8G8TNhM+F19jXFWnQtzj+we8DrkpSBCee9Z3Ms8yiGer/dlmhe35/Xdgyo3/0rQKg7YA==
   dependencies:
     "@sinonjs/commons" "^3.0.0"
+
+"@stripe/stripe-react-native@^0.66.0":
+  version "0.66.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-react-native/-/stripe-react-native-0.66.0.tgz#b8597a47156bcc63f0dff11006342cbaf6abe8e4"
+  integrity sha512-dwu6l1/n6+lHyokGiAoN/lz+n2XIJ2l8nM/zl9K9dR4YaCmKPbMXErWViSREd31BCgfxju05bmYStSEH4NHvzw==
 
 "@tanstack/query-core@5.101.0":
   version "5.101.0"
@@ -3595,7 +3605,7 @@ expo-build-properties@^56.0.17:
     resolve-from "^5.0.0"
     semver "^7.6.0"
 
-expo-constants@~56.0.17:
+expo-constants@^56.0.17, expo-constants@~56.0.16, expo-constants@~56.0.17:
   version "56.0.17"
   resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-56.0.17.tgz#8a1900cf536edc69ea57887782b32ec33c7fd1f0"
   integrity sha512-bU8iU1+7cI7QzfGQVnz2C1nlbXD08YPwD6h8ZEuNspgUuD2prXfmrhrdLe1GjCPYGw4hB3BNjWPjpenNyyymfQ==
@@ -3618,6 +3628,14 @@ expo-keep-awake@~56.0.3:
   version "56.0.3"
   resolved "https://registry.yarnpkg.com/expo-keep-awake/-/expo-keep-awake-56.0.3.tgz#88991b4859c77af73cf68c500839a18fe5d8febe"
   integrity sha512-CLMJXtEiMKknD3Rpm8CRwE6ZJUzu2yCEmRk1sgfHAJ1zIbuEWY3dpPDubtsnuzWm+2k6Sru+yaFbYsvPWmTiBA==
+
+expo-linking@^56.0.13:
+  version "56.0.13"
+  resolved "https://registry.yarnpkg.com/expo-linking/-/expo-linking-56.0.13.tgz#7eb3bf489e2624690a9684777aaf7cb9167480c2"
+  integrity sha512-38YrpTh6xdiDxmYSDIUffDqev1hIcEggw2fZ3IZhNp2DVLF1xvqsbO6hJD1fuBKN8P34B3Ggc9Yy26fkqdfCOA==
+  dependencies:
+    expo-constants "~56.0.16"
+    invariant "^2.2.4"
 
 expo-modules-autolinking@~56.0.15:
   version "56.0.15"
@@ -4615,6 +4633,11 @@ lru-cache@^5.1.1:
   integrity sha512-KpNARQA3Iwv+jTA0utUVVbrh+Jlrr1Fv0e56GGzAFOXN7dk/FviaDW8LHmK52DlcH4WP2n6gI8vN1aesBFgo9w==
   dependencies:
     yallist "^3.0.2"
+
+lucide-react-native@^1.17.0:
+  version "1.17.0"
+  resolved "https://registry.yarnpkg.com/lucide-react-native/-/lucide-react-native-1.17.0.tgz#7e0eb165f932562502d0856b2d7398125c379724"
+  integrity sha512-H5eM7dZkXJbYcrsjczlDC6Sq1/siWcM5O5BLLx6ljT0XDIGorZFjul+AdThuMs0I614nwowv5qbDivuQ+349Xw==
 
 make-dir@^2.0.0, make-dir@^2.1.0:
   version "2.1.0"
@@ -5800,6 +5823,11 @@ react-native-gesture-handler@^3.0.0:
   dependencies:
     "@types/react-test-renderer" "^19.1.0"
     invariant "^2.2.4"
+
+react-native-mmkv-storage@^12.0.1:
+  version "12.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-mmkv-storage/-/react-native-mmkv-storage-12.0.1.tgz#8a7649faac0f47c0ec2866e22dca844260454db1"
+  integrity sha512-4I4NzjStuCqkeXGfJ7pcACNQ2FlZKlAQqeRvI80iZL7mQcaO5NMO26ILUk2f4LPEvxaT2ns+NcqPMZSj7L83ng==
 
 react-native-mmkv@^2.12.2:
   version "2.12.2"
