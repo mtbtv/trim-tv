@@ -1,4 +1,3 @@
-import { MMKV } from 'react-native-mmkv-storage';
 
 const mmkvInstance = new MMKV();
 
